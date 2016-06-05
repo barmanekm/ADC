@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=3V3 Pin=IC1-1
+Removed Pin From Net: NetName=M/S Pin=IC1-3
+Removed Pin From Net: NetName=3V3 Pin=IC2-5
+Removed Pin From Net: NetName=AGND Pin=J?-1A
+Removed Pin From Net: NetName=AGND Pin=J?-1B
+Removed Pin From Net: NetName=AGND Pin=J?-1
+Removed Pin From Net: NetName=IN_L Pin=J?-2A
+Removed Pin From Net: NetName=IN_L Pin=J?-2B
+Removed Pin From Net: NetName=IN_L Pin=J?-2
+Removed Pin From Net: NetName=AGND Pin=J?-3A
+Removed Pin From Net: NetName=AGND Pin=J?-3B
+Removed Pin From Net: NetName=AGND Pin=J?-3
+Removed Pin From Net: NetName=IN_R Pin=J?-4A
+Removed Pin From Net: NetName=IN_R Pin=J?-4B
+Removed Pin From Net: NetName=IN_R Pin=J?-4
+Removed Pin From Net: NetName=3V3 Pin=P1-6
+Removed Pin From Net: NetName=M/S Pin=P1-7
+Removed Pin From Net: NetName=3V3 Pin=P1-12
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C21
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C22
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C31
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C32
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C33
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C41
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C42
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C43
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C51
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=C52
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=IC1
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=IC2
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=IC21
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=IC31
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=IC41
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=L21
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=P1
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=R21
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=R22
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=XCO1
+Change Component Comment : Designator=P1 Old Comment=Header 6X2A New Comment=PMOD 6X2
+Added Component: Designator=J1(ST-3150-5N)
+Added Pin To Net: NetName=DVDD Pin=IC1-1
+Added Pin To Net: NetName=AGND Pin=IC1-9
+Added Pin To Net: NetName=DVDD Pin=IC1-16
+Added Pin To Net: NetName=DVDD Pin=IC2-5
+Added Pin To Net: NetName=AGND Pin=J1-1A
+Added Pin To Net: NetName=AGND Pin=J1-1B
+Added Pin To Net: NetName=AGND Pin=J1-1
+Added Pin To Net: NetName=IN_L Pin=J1-2A
+Added Pin To Net: NetName=IN_L Pin=J1-2B
+Added Pin To Net: NetName=IN_L Pin=J1-2
+Added Pin To Net: NetName=AGND Pin=J1-3A
+Added Pin To Net: NetName=AGND Pin=J1-3B
+Added Pin To Net: NetName=AGND Pin=J1-3
+Added Pin To Net: NetName=IN_R Pin=J1-4A
+Added Pin To Net: NetName=IN_R Pin=J1-4B
+Added Pin To Net: NetName=IN_R Pin=J1-4
+Added Pin To Net: NetName=AGND Pin=J1-5A
+Added Pin To Net: NetName=AGND Pin=J1-5B
+Added Pin To Net: NetName=AGND Pin=J1-5
+Change Net Name : Old Net Name=5V New Net Name=5V5
+Change Net Name : Old Net Name=NetIC1_4 New Net Name=PMOD_MCLK
+Change Net Name : Old Net Name=NetIC1_6 New Net Name=PMOD_LRCLK
+Change Net Name : Old Net Name=NetIC1_7 New Net Name=PMOD_BCLK
+Change Net Name : Old Net Name=NetIC2_4 New Net Name=PMOD_DOUT
+Added Pin To Net: NetName=PMOD_3V3 Pin=P1-6
+Added Pin To Net: NetName=PMOD_3V3 Pin=P1-12
+Added Net: Name=PMOD_3V3
+Added Pin To Net: NetName=PMOD_M/S Pin=IC1-3
+Added Pin To Net: NetName=PMOD_M/S Pin=P1-7
+Added Net: Name=PMOD_M/S
+Change Class Name : Old Net Name=AdcPmodWM8782 New Net Name=A/C WM8782
+Added Class: Name=AdcPmod
+Added Class: Name=INTERFEJS CYFROWY
+Added Class: Name=ZASILANIE
+Added Class: Name=ZEGAR
+Added Room: Name=A/C WM8782
+Added Room: Name=AdcPmod
+Added Room: Name=INTERFEJS CYFROWY
+Added Room: Name=ZASILANIE
+Added Room: Name=ZEGAR

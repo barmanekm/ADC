@@ -1,0 +1,8 @@
+Removed Parameter Capacitance: from Part C2
+Removed Parameter Capacitance: from Part C4
+Removed Parameter Capacitance: from Part C7
+Removed Parameter Capacitance: from Part C9
+Added Parameter Value=0.1 uF to Part C2
+Added Parameter Value=0.1 uF to Part C4
+Added Parameter Value=0.1 uF to Part C7
+Added Parameter Value=0.1 uF to Part C9

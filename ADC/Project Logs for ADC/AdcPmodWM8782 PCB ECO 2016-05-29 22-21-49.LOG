@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=AGND Pin=L_CH-1A
+Removed Pin From Net: NetName=NetC5_2 Pin=L_CH-2B
+Removed Pin From Net: NetName=AGND Pin=R_CH-1A
+Removed Pin From Net: NetName=NetC6_2 Pin=R_CH-2B
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=L_CH
+Removed Member From Class: ClassName=AdcPmodWM8782 Member=R_CH
+Added Component: Designator=J?(ST-3150-5N)
+Added Pin To Net: NetName=AGND Pin=J?-1A
+Added Pin To Net: NetName=AGND Pin=J?-1B
+Added Pin To Net: NetName=AGND Pin=J?-1
+Added Pin To Net: NetName=NetC5_2 Pin=J?-2A
+Added Pin To Net: NetName=NetC5_2 Pin=J?-2B
+Added Pin To Net: NetName=NetC5_2 Pin=J?-2
+Added Pin To Net: NetName=AGND Pin=J?-3A
+Added Pin To Net: NetName=AGND Pin=J?-3B
+Added Pin To Net: NetName=AGND Pin=J?-3
+Added Pin To Net: NetName=NetC6_2 Pin=J?-4A
+Added Pin To Net: NetName=NetC6_2 Pin=J?-4B
+Added Pin To Net: NetName=NetC6_2 Pin=J?-4
+Added Pin To Net: NetName=AGND Pin=J?-5A
+Added Pin To Net: NetName=AGND Pin=J?-5B
+Added Pin To Net: NetName=AGND Pin=J?-5
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component J? Phonejack Stereo SW
+Added Room: Name=AdcPmodWM8782

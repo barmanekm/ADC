@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=* NewDesignator=IC41
+Added Component: Designator=C41(CAP0805)
+Added Component: Designator=C42(CAP0805)
+Added Component: Designator=C43(CAP0805)
+Added Component: Designator=XCO1(XCO-7mmx5mm)
+Added Pin To Net: NetName=AGND Pin=C41-1
+Added Pin To Net: NetName=5V Pin=C41-2
+Added Pin To Net: NetName=AGND Pin=C42-1
+Added Pin To Net: NetName=AGND Pin=C43-1
+Added Pin To Net: NetName=5V Pin=IC41-1
+Added Pin To Net: NetName=AGND Pin=IC41-2
+Added Pin To Net: NetName=5V Pin=IC41-3
+Added Pin To Net: NetName=AGND Pin=XCO1-2
+Added Pin To Net: NetName=3V3CLK Pin=C42-2
+Added Pin To Net: NetName=3V3CLK Pin=IC41-5
+Added Pin To Net: NetName=3V3CLK Pin=XCO1-4
+Added Net: Name=3V3CLK
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=IC41-4
+Added Net: Name=NetC43_2
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component C41 
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component C42 
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component C43 
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component XCO1 XCO
+Added Room: Name=AdcPmodWM8782

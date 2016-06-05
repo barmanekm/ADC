@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=DVDD Pin=IC1-1
+Removed Pin From Net: NetName=PMOD_M/S Pin=IC1-3
+Removed Pin From Net: NetName=PMOD_MCLK Pin=IC1-4
+Removed Pin From Net: NetName=PMOD_LRCLK Pin=IC1-6
+Removed Pin From Net: NetName=PMOD_BCLK Pin=IC1-7
+Removed Pin From Net: NetName=AGND Pin=IC1-8
+Removed Pin From Net: NetName=AGND Pin=IC1-9
+Removed Pin From Net: NetName=BCLK Pin=IC1-10
+Removed Pin From Net: NetName=LRCLK Pin=IC1-11
+Removed Pin From Net: NetName=MCLK Pin=IC1-13
+Removed Pin From Net: NetName=AGND Pin=IC1-14
+Removed Pin From Net: NetName=AGND Pin=IC1-15
+Removed Pin From Net: NetName=DVDD Pin=IC1-16
+Removed Pin From Net: NetName=AGND Pin=IC2-1
+Removed Pin From Net: NetName=DOUT Pin=IC2-2
+Removed Pin From Net: NetName=AGND Pin=IC2-3
+Removed Pin From Net: NetName=PMOD_DOUT Pin=IC2-4
+Removed Pin From Net: NetName=DVDD Pin=IC2-5
+Removed Member From Class: ClassName=INTERFEJS CYFROWY Member=IC1
+Removed Member From Class: ClassName=INTERFEJS CYFROWY Member=IC2
+Change Component Comment : Designator=C51 Old Comment= New Comment=0.1uF
+Change Component Comment : Designator=C52 Old Comment= New Comment=0.1uF
+Added Component: Designator=C51(CAP0805)
+Added Component: Designator=C52(CAP0805)
+Added Component: Designator=C53(CAP0805)
+Added Component: Designator=IC51(TSSOP16)
+Added Component: Designator=IC52(SC70 (TI))
+Added Pin To Net: NetName=AGND Pin=C51-1
+Added Pin To Net: NetName=DVDD Pin=C51-2
+Added Pin To Net: NetName=AGND Pin=C52-1
+Added Pin To Net: NetName=DVDD Pin=C52-2
+Added Pin To Net: NetName=AGND Pin=C53-1
+Added Pin To Net: NetName=DVDD Pin=C53-2
+Added Pin To Net: NetName=DVDD Pin=IC51-1
+Added Pin To Net: NetName=PMOD_M/S Pin=IC51-3
+Added Pin To Net: NetName=PMOD_MCLK Pin=IC51-4
+Added Pin To Net: NetName=PMOD_LRCLK Pin=IC51-6
+Added Pin To Net: NetName=PMOD_BCLK Pin=IC51-7
+Added Pin To Net: NetName=AGND Pin=IC51-8
+Added Pin To Net: NetName=AGND Pin=IC51-9
+Added Pin To Net: NetName=BCLK Pin=IC51-10
+Added Pin To Net: NetName=LRCLK Pin=IC51-11
+Added Pin To Net: NetName=MCLK Pin=IC51-13
+Added Pin To Net: NetName=AGND Pin=IC51-14
+Added Pin To Net: NetName=AGND Pin=IC51-15
+Added Pin To Net: NetName=DVDD Pin=IC51-16
+Added Pin To Net: NetName=AGND Pin=IC52-1
+Added Pin To Net: NetName=DOUT Pin=IC52-2
+Added Pin To Net: NetName=AGND Pin=IC52-3
+Added Pin To Net: NetName=PMOD_DOUT Pin=IC52-4
+Added Pin To Net: NetName=DVDD Pin=IC52-5
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component C51 0.1uF
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component C52 0.1uF
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component C53 0.1uF
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component IC51 74AVCH4T245
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component IC52 SN74LVC1G125
+Added Room: Name=A/C WM8782
+Added Room: Name=AdcPmod
+Added Room: Name=INTERFEJS CYFROWY
+Added Room: Name=ZASILANIE
+Added Room: Name=ZEGAR

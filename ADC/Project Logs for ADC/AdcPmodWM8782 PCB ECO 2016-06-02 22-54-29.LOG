@@ -1,0 +1,5 @@
+Added Component: Designator=C51(CAP0805)
+Added Pin To Net: NetName=AGND Pin=C51-1
+Added Pin To Net: NetName=3V3CLK Pin=C51-2
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component C51 
+Added Room: Name=AdcPmodWM8782

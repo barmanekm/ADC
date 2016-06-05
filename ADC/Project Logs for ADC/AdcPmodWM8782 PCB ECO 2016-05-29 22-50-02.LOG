@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AGND Pin=J?-5A
+Removed Pin From Net: NetName=AGND Pin=J?-5B
+Removed Pin From Net: NetName=AGND Pin=J?-5
+Change Net Name : Old Net Name=NetC5_2 New Net Name=IN_L
+Change Net Name : Old Net Name=NetC6_2 New Net Name=IN_R
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5A
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5B
+Added Net: Name=NetJ?_5
+Added Room: Name=AdcPmodWM8782

@@ -1,0 +1,25 @@
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part L_CH
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part R_CH
+Removed Parameter ComponentLink1URL:http://www.mouser.com/kobiconn/ from Part L_CH
+Removed Parameter ComponentLink1URL:http://www.mouser.com/kobiconn/ from Part R_CH
+Removed Parameter DatasheetDocument:7-Jul-2000 from Part L_CH
+Removed Parameter DatasheetDocument:7-Jul-2000 from Part R_CH
+Removed Parameter DrillAndSlotSize:Corresponds to nominal value. from Part L_CH
+Removed Parameter DrillAndSlotSize:Corresponds to nominal value. from Part R_CH
+Removed Parameter LatestRevisionDate:15-Jul-2004 from Part L_CH
+Removed Parameter LatestRevisionDate:15-Jul-2004 from Part R_CH
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part P1
+Removed Parameter LatestRevisionNote:Component Replaced. from Part L_CH
+Removed Parameter LatestRevisionNote:Component Replaced. from Part R_CH
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part P1
+Removed Parameter PackageDocument:7-Jul-2000 from Part L_CH
+Removed Parameter PackageDocument:7-Jul-2000 from Part R_CH
+Removed Parameter PackageReference:161 from Part L_CH
+Removed Parameter PackageReference:161 from Part R_CH
+Removed Parameter PCB_Layout:Complies with manufacturer's recommendation. from Part L_CH
+Removed Parameter PCB_Layout:Complies with manufacturer's recommendation. from Part R_CH
+Removed Parameter Published:15-Jul-2004 from Part L_CH
+Removed Parameter Published:15-Jul-2004 from Part R_CH
+Removed Parameter Publisher:Altium Limited from Part L_CH
+Removed Parameter Publisher:Altium Limited from Part P1
+Removed Parameter Publisher:Altium Limited from Part R_CH

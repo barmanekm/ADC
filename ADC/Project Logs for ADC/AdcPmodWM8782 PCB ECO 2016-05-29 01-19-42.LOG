@@ -1,0 +1,154 @@
+Added Component: Designator=C1(CAP EL SMD Dia. 5mm)
+Added Component: Designator=C2(CAP0805)
+Added Component: Designator=C3(CAP EL SMD Dia. 5mm)
+Added Component: Designator=C4(CAP0805)
+Added Component: Designator=C5(CAP EL SMD Dia. 5mm)
+Added Component: Designator=C6(CAP EL SMD Dia. 5mm)
+Added Component: Designator=C7(CAP0805)
+Added Component: Designator=C8(CAP EL SMD Dia. 5mm)
+Added Component: Designator=C9(CAP0805)
+Added Component: Designator=C10(CAP EL SMD Dia. 5mm)
+Added Component: Designator=C101(CAP0805)
+Added Component: Designator=C102(CAP0805)
+Added Component: Designator=C201(CAP0805)
+Added Component: Designator=C202(CAP0805)
+Added Component: Designator=C203(CAP0805)
+Added Component: Designator=IC100(SOT23 (DDC TI))
+Added Component: Designator=IC200(SOT23 (5) (DBVTI))
+Added Component: Designator=L101(IND806)
+Added Component: Designator=L_CH(RCA/4.5-H2)
+Added Component: Designator=P1(HDR2X6_CEN)
+Added Component: Designator=R1(RES0805)
+Added Component: Designator=R2(RES0805)
+Added Component: Designator=R3(RES0805)
+Added Component: Designator=R4(RES0805)
+Added Component: Designator=R5(RES0805)
+Added Component: Designator=R6(RES0805)
+Added Component: Designator=R101(RES0805)
+Added Component: Designator=R102(RES0805)
+Added Component: Designator=R_CH(RCA/4.5-H2)
+Added Component: Designator=U1(SOP65P780X200-20M_)
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C101-2
+Added Pin To Net: NetName=3V3 Pin=IC100-3
+Added Pin To Net: NetName=3V3 Pin=IC100-6
+Added Pin To Net: NetName=3V3 Pin=L101-1
+Added Pin To Net: NetName=3V3 Pin=P1-6
+Added Pin To Net: NetName=3V3 Pin=P1-12
+Added Pin To Net: NetName=3V3 Pin=U1-5
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=C102-2
+Added Pin To Net: NetName=5V Pin=C201-2
+Added Pin To Net: NetName=5V Pin=IC100-5
+Added Pin To Net: NetName=5V Pin=IC200-1
+Added Pin To Net: NetName=5V Pin=IC200-3
+Added Pin To Net: NetName=5V Pin=R101-2
+Added Net: Name=5V
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=C2-2
+Added Pin To Net: NetName=AGND Pin=C3-2
+Added Pin To Net: NetName=AGND Pin=C4-1
+Added Pin To Net: NetName=AGND Pin=C7-2
+Added Pin To Net: NetName=AGND Pin=C8-2
+Added Pin To Net: NetName=AGND Pin=C9-1
+Added Pin To Net: NetName=AGND Pin=C10-2
+Added Pin To Net: NetName=AGND Pin=C101-1
+Added Pin To Net: NetName=AGND Pin=C102-1
+Added Pin To Net: NetName=AGND Pin=C201-1
+Added Pin To Net: NetName=AGND Pin=C202-1
+Added Pin To Net: NetName=AGND Pin=C203-1
+Added Pin To Net: NetName=AGND Pin=IC100-2
+Added Pin To Net: NetName=AGND Pin=IC200-2
+Added Pin To Net: NetName=AGND Pin=L_CH-1A
+Added Pin To Net: NetName=AGND Pin=P1-5
+Added Pin To Net: NetName=AGND Pin=P1-11
+Added Pin To Net: NetName=AGND Pin=R102-1
+Added Pin To Net: NetName=AGND Pin=R_CH-1A
+Added Pin To Net: NetName=AGND Pin=U1-4
+Added Pin To Net: NetName=AGND Pin=U1-11
+Added Pin To Net: NetName=AGND Pin=U1-14
+Added Net: Name=AGND
+Added Pin To Net: NetName=AVDD Pin=C7-1
+Added Pin To Net: NetName=AVDD Pin=C8-1
+Added Pin To Net: NetName=AVDD Pin=C202-2
+Added Pin To Net: NetName=AVDD Pin=IC200-5
+Added Pin To Net: NetName=AVDD Pin=U1-13
+Added Net: Name=AVDD
+Added Pin To Net: NetName=BCLK Pin=P1-10
+Added Pin To Net: NetName=BCLK Pin=U1-6
+Added Net: Name=BCLK
+Added Pin To Net: NetName=DOUT Pin=P1-8
+Added Pin To Net: NetName=DOUT Pin=U1-2
+Added Net: Name=DOUT
+Added Pin To Net: NetName=FORMAT Pin=P1-1
+Added Pin To Net: NetName=FORMAT Pin=U1-9
+Added Net: Name=FORMAT
+Added Pin To Net: NetName=FSAMPEN Pin=P1-2
+Added Pin To Net: NetName=FSAMPEN Pin=U1-8
+Added Net: Name=FSAMPEN
+Added Pin To Net: NetName=IWL Pin=P1-3
+Added Pin To Net: NetName=IWL Pin=U1-7
+Added Net: Name=IWL
+Added Pin To Net: NetName=LRCLK Pin=P1-9
+Added Pin To Net: NetName=LRCLK Pin=U1-3
+Added Net: Name=LRCLK
+Added Pin To Net: NetName=M/S Pin=P1-7
+Added Pin To Net: NetName=M/S Pin=R1-2
+Added Net: Name=M/S
+Added Pin To Net: NetName=MCLK Pin=P1-4
+Added Pin To Net: NetName=MCLK Pin=U1-1
+Added Net: Name=MCLK
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R2-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=L_CH-2B
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R5-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R_CH-2B
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C10-1
+Added Pin To Net: NetName=NetC9_2 Pin=U1-12
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC203_2 Pin=C203-2
+Added Pin To Net: NetName=NetC203_2 Pin=IC200-4
+Added Net: Name=NetC203_2
+Added Pin To Net: NetName=NetIC100_1 Pin=IC100-1
+Added Pin To Net: NetName=NetIC100_1 Pin=L101-2
+Added Net: Name=NetIC100_1
+Added Pin To Net: NetName=NetIC100_4 Pin=IC100-4
+Added Pin To Net: NetName=NetIC100_4 Pin=R101-1
+Added Pin To Net: NetName=NetIC100_4 Pin=R102-2
+Added Net: Name=NetIC100_4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-20
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-19
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-18
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-17
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=U1-16
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-15
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=VMID Pin=C3-1
+Added Pin To Net: NetName=VMID Pin=C4-2
+Added Pin To Net: NetName=VMID Pin=R4-2
+Added Pin To Net: NetName=VMID Pin=U1-10
+Added Net: Name=VMID
+Added Class: Name=AdcPmodWM8782
+Added Room: Name=AdcPmodWM8782

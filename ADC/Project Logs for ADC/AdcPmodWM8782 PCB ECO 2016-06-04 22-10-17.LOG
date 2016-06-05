@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=M/S Pin=IC1-1
+Removed Pin From Net: NetName=NetIC1_5 Pin=IC1-5
+Removed Pin From Net: NetName=AGND Pin=IC1-10
+Removed Pin From Net: NetName=BCLK Pin=IC1-15
+Removed Pin From Net: NetName=LRCLK Pin=IC1-16
+Removed Pin From Net: NetName=AGND Pin=IC1-19
+Removed Pin From Net: NetName=3V3 Pin=IC1-20
+Removed Pin From Net: NetName=MCLK Pin=P1-4
+Removed Pin From Net: NetName=NetIC1_5 Pin=P1-9
+Removed Pin From Net: NetName=NetIC1_6 Pin=P1-10
+Change Component DesignItemId : Designator=IC1 Old DesignItemId=OCTAL BUS TRANSCEIVER  WITH 3-STATE OUTPUTS New DesignItemId=74AVCH4T245
+Change Component Footprint: Designator=IC1 Old Footprint=SSOP16 5.3MM New Footprint=TSSOP16
+Change Component Comment : Designator=IC1 Old Comment=OCTAL BUS TRANSCEIVER  WITH 3-STATE OUTPUTS New Comment=74AVCH4T245
+Added Pin To Net: NetName=3V3 Pin=IC1-1
+Added Pin To Net: NetName=M/S Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-7
+Added Pin To Net: NetName=AGND Pin=IC1-8
+Added Pin To Net: NetName=BCLK Pin=IC1-10
+Added Pin To Net: NetName=LRCLK Pin=IC1-11
+Added Pin To Net: NetName=MCLK Pin=IC1-13
+Added Pin To Net: NetName=AGND Pin=IC1-14
+Added Pin To Net: NetName=AGND Pin=IC1-15
+Added Pin To Net: NetName=NetIC1_6 Pin=P1-9
+Added Pin To Net: NetName=NetIC1_5 Pin=P1-10
+Change Net Name : Old Net Name=NetIC1_5 New Net Name=NetIC1_7
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=P1-4
+Added Net: Name=NetIC1_4
+Added Room: Name=AdcPmodWM8782

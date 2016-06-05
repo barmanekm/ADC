@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C101 NewDesignator=C21
+Change Component Designator: OldDesignator=C102 NewDesignator=C22
+Change Component Designator: OldDesignator=C201 NewDesignator=C31
+Change Component Designator: OldDesignator=C202 NewDesignator=C32
+Change Component Designator: OldDesignator=C203 NewDesignator=C33
+Change Component Designator: OldDesignator=IC100 NewDesignator=IC21
+Change Component Designator: OldDesignator=IC200 NewDesignator=IC31
+Change Component Designator: OldDesignator=L101 NewDesignator=L21
+Change Component Designator: OldDesignator=R101 NewDesignator=R21
+Change Component Designator: OldDesignator=R102 NewDesignator=R22
+Change Net Name : Old Net Name=NetC203_2 New Net Name=NetC33_2
+Change Net Name : Old Net Name=NetIC100_1 New Net Name=NetIC21_1
+Change Net Name : Old Net Name=NetIC100_4 New Net Name=NetIC21_4
+Added Room: Name=AdcPmodWM8782

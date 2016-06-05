@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=C4 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=C7 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=C9 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=C21 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=C22 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=C31 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=C32 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=C33 Old Footprint=CAP1206 (HS) New Footprint=CAP0805
+Change Component Footprint: Designator=R1 Old Footprint=RES1206 (HS) New Footprint=RES0805
+Change Component Footprint: Designator=R2 Old Footprint=RES1206 (HS) New Footprint=RES0805
+Change Component Footprint: Designator=R3 Old Footprint=RES1206 (HS) New Footprint=RES0805
+Change Component Footprint: Designator=R4 Old Footprint=RES1206 (HS) New Footprint=RES0805
+Change Component Footprint: Designator=R5 Old Footprint=RES1206 (HS) New Footprint=RES0805
+Change Component Footprint: Designator=R6 Old Footprint=RES1206 (HS) New Footprint=RES0805
+Change Component Footprint: Designator=R21 Old Footprint=RES1206 (HS) New Footprint=RES0805
+Change Component Footprint: Designator=R22 Old Footprint=RES1206 (HS) New Footprint=RES0805
+Added Component: Designator=*(SOT23 (5) (DBVTI))
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component * TPS730x
+Added Room: Name=AdcPmodWM8782

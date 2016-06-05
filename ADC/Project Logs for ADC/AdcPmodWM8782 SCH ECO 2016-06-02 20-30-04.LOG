@@ -1,0 +1,17 @@
+Change Component Parameter Footprint in C2 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in C4 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in C7 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in C9 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in C21 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in C22 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in C31 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in C32 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in C33 Old=CAP1206 (HS) New=CAP0805
+Change Component Parameter Footprint in R1 Old=RES1206 (HS) New=RES0805
+Change Component Parameter Footprint in R2 Old=RES1206 (HS) New=RES0805
+Change Component Parameter Footprint in R3 Old=RES1206 (HS) New=RES0805
+Change Component Parameter Footprint in R4 Old=RES1206 (HS) New=RES0805
+Change Component Parameter Footprint in R5 Old=RES1206 (HS) New=RES0805
+Change Component Parameter Footprint in R6 Old=RES1206 (HS) New=RES0805
+Change Component Parameter Footprint in R21 Old=RES1206 (HS) New=RES0805
+Change Component Parameter Footprint in R22 Old=RES1206 (HS) New=RES0805

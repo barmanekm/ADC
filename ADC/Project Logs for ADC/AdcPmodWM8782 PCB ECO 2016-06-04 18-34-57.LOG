@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=LRCLK Pin=P1-9
+Removed Pin From Net: NetName=BCLK Pin=P1-10
+Added Component: Designator=IC1(SSOP16 5.3mm)
+Added Pin To Net: NetName=M/S Pin=IC1-1
+Added Pin To Net: NetName=AGND Pin=IC1-10
+Added Pin To Net: NetName=BCLK Pin=IC1-15
+Added Pin To Net: NetName=AGND Pin=IC1-19
+Added Pin To Net: NetName=3V3 Pin=IC1-20
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=P1-9
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=P1-10
+Added Net: Name=NetIC1_6
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component IC1 OCTAL BUS TRANSCEIVER  WITH 3-STATE OUTPUTS
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component IC41 TPS730x
+Added Room: Name=AdcPmodWM8782

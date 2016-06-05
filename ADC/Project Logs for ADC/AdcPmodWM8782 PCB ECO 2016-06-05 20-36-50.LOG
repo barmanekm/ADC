@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=DVDD Pin=IC1-1
+Removed Pin From Net: NetName=PMOD_M/S Pin=IC1-3
+Removed Pin From Net: NetName=PMOD_MCLK Pin=IC1-4
+Removed Pin From Net: NetName=PMOD_LRCLK Pin=IC1-6
+Removed Pin From Net: NetName=PMOD_BCLK Pin=IC1-7
+Removed Pin From Net: NetName=AGND Pin=IC1-8
+Removed Pin From Net: NetName=AGND Pin=IC1-9
+Removed Pin From Net: NetName=BCLK Pin=IC1-10
+Removed Pin From Net: NetName=LRCLK Pin=IC1-11
+Removed Pin From Net: NetName=MCLK Pin=IC1-13
+Removed Pin From Net: NetName=AGND Pin=IC1-14
+Removed Pin From Net: NetName=AGND Pin=IC1-15
+Removed Pin From Net: NetName=DVDD Pin=IC1-16
+Removed Pin From Net: NetName=AGND Pin=IC2-1
+Removed Pin From Net: NetName=DOUT Pin=IC2-2
+Removed Pin From Net: NetName=AGND Pin=IC2-3
+Removed Pin From Net: NetName=PMOD_DOUT Pin=IC2-4
+Removed Pin From Net: NetName=DVDD Pin=IC2-5
+Change Component Comment : Designator=C51 Old Comment= New Comment=0.1uF
+Change Component Comment : Designator=C52 Old Comment= New Comment=0.1uF
+Added Component: Designator=C53(CAP0805)
+Added Component: Designator=C61(CAP0805)
+Added Component: Designator=C62(CAP0805)
+Added Component: Designator=IC61(TSSOP16)
+Added Component: Designator=IC62(SC70 (TI))
+Added Pin To Net: NetName=AGND Pin=C53-1
+Added Pin To Net: NetName=DVDD Pin=C53-2
+Added Pin To Net: NetName=AGND Pin=C61-1
+Added Pin To Net: NetName=DVDD Pin=C61-2
+Added Pin To Net: NetName=AGND Pin=C62-1
+Added Pin To Net: NetName=DVDD Pin=C62-2
+Added Pin To Net: NetName=DVDD Pin=IC61-1
+Added Pin To Net: NetName=PMOD_M/S Pin=IC61-3
+Added Pin To Net: NetName=PMOD_MCLK Pin=IC61-4
+Added Pin To Net: NetName=PMOD_LRCLK Pin=IC61-6
+Added Pin To Net: NetName=PMOD_BCLK Pin=IC61-7
+Added Pin To Net: NetName=AGND Pin=IC61-8
+Added Pin To Net: NetName=AGND Pin=IC61-9
+Added Pin To Net: NetName=BCLK Pin=IC61-10
+Added Pin To Net: NetName=LRCLK Pin=IC61-11
+Added Pin To Net: NetName=MCLK Pin=IC61-13
+Added Pin To Net: NetName=AGND Pin=IC61-14
+Added Pin To Net: NetName=AGND Pin=IC61-15
+Added Pin To Net: NetName=DVDD Pin=IC61-16
+Added Pin To Net: NetName=AGND Pin=IC62-1
+Added Pin To Net: NetName=DOUT Pin=IC62-2
+Added Pin To Net: NetName=AGND Pin=IC62-3
+Added Pin To Net: NetName=PMOD_DOUT Pin=IC62-4
+Added Pin To Net: NetName=DVDD Pin=IC62-5
+Added Member To Class: ClassName=ZEGAR Member=Component C51 0.1uF
+Added Member To Class: ClassName=ZEGAR Member=Component C52 0.1uF
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component C53 0.1uF
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component C61 0.1uF
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component C62 0.1uF
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component IC61 74AVCH4T245
+Added Member To Class: ClassName=INTERFEJS CYFROWY Member=Component IC62 SN74LVC1G125
+Added Room: Name=A/C WM8782
+Added Room: Name=AdcPmod
+Added Room: Name=INTERFEJS CYFROWY
+Added Room: Name=ZASILANIE
+Added Room: Name=ZEGAR

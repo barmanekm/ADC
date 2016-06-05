@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP EL SMD Dia. 5mm New Footprint=CAP_POL1206
+Change Component Footprint: Designator=C8 Old Footprint=CAP EL SMD Dia. 5mm New Footprint=CAP_POL1206
+Added Room: Name=AdcPmodWM8782

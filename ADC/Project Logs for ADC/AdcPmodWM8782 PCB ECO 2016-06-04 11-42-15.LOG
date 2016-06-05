@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C2-1
+Removed Pin From Net: NetName=3V3CLK Pin=C42-2
+Removed Pin From Net: NetName=3V3CLK Pin=IC41-5
+Removed Pin From Net: NetName=3V3 Pin=U1-5
+Added Component: Designator=C52(CAP0805)
+Added Pin To Net: NetName=AGND Pin=C52-1
+Added Pin To Net: NetName=3V3CLK Pin=C52-2
+Added Pin To Net: NetName=DVDD Pin=C1-1
+Added Pin To Net: NetName=DVDD Pin=C2-1
+Added Pin To Net: NetName=DVDD Pin=C42-2
+Added Pin To Net: NetName=DVDD Pin=IC41-5
+Added Pin To Net: NetName=DVDD Pin=U1-5
+Added Net: Name=DVDD
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component C52 
+Added Room: Name=AdcPmodWM8782

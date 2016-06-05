@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=M/S Pin=IC1-2
+Removed Pin From Net: NetName=DOUT Pin=P1-8
+Added Component: Designator=IC2(SC70 (TI))
+Added Pin To Net: NetName=M/S Pin=IC1-3
+Added Pin To Net: NetName=AGND Pin=IC2-1
+Added Pin To Net: NetName=DOUT Pin=IC2-2
+Added Pin To Net: NetName=AGND Pin=IC2-3
+Added Pin To Net: NetName=3V3 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_4 Pin=IC2-4
+Added Pin To Net: NetName=NetIC2_4 Pin=P1-8
+Added Net: Name=NetIC2_4
+Added Member To Class: ClassName=AdcPmodWM8782 Member=Component IC2 SN74LVC1G125
+Added Room: Name=AdcPmodWM8782
